@@ -1,5 +1,5 @@
 # Machine Learning A-Z<sup>:tm:</sup> Code Files
-This repository contains code files from the code-along exercises of the "Machine Learning A-Z<sup>:tm:</sup>" online course on Udemy by Kirill Eremenko and Hadelin de Ponteves. The course provides a comprehensive introduction to machine learning concepts and techniques.
+This repository contains code files made in conjunction with the code-along exercises of the "Machine Learning A-Z<sup>:tm:</sup>" online course on Udemy by Kirill Eremenko and Hadelin de Ponteves. The course provides a comprehensive introduction to machine learning concepts and techniques.
 
 ## Course Description
 Machine Learning A-Z is a popular online course on Udemy that covers a wide range of machine learning topics, including supervised and unsupervised learning, regression, classification, clustering, dimensionality reduction and deep learning. The course utilizes various machine learning algorithms and frameworks such as Python's scikit-learn, TensorFlow, and Keras.
